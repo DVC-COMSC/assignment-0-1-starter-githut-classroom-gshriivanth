@@ -1,0 +1,8 @@
+###
+Shriivanth Gunanidhi
+Professor Lee
+COSMC-140
+15 June 2023
+Assignment 1 Procedure Essay
+For this assignment, I have created a GitHub Classroom Repository and  clone the repository in VS Code. Then I made a few edits to my main.py by writing the two print statements that printed "Hello World" and "Python Programming" when the program was run. Next, I tested the code by typing the "pytest -rP" command into the terminal. Once that was finished, I clicked source control and the "+" button next to the main.py file, which was the stage button. Then I wrote a message and clicked the commit button, which was the checkmark at the top of the window. Finally, I clicked the Up Arrow icon at the bottom of the window to synchronize the changes. Then I went to my GitHub Classroom Repository and made sure that the green check mark appeared before submitting my link to canvas. I experienced a few errors along the way. The first error was that there was an error downloading XCode on my Mac so I was wondering why I didn't see the clone button on VS Code. I was able to resolve that by restarting my computer. Next, I faced some credential issues. Although I read the slide, I didn't understand what to do with that information in the beginning. Then I realized that I had to type those commands into my terminal and once I did, I was able to synchronize the changes. Another slight problem I faced was the fact that I didn't see the "Sync Changes" pop up even after I confirmed my credentials. I then took a closer look at the slides and realized that if I didn't see that button I just had to click the up arrow at the bottom of my window.
+###
